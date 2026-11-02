@@ -1,0 +1,8 @@
+node_modules
+.next
+out
+test-results
+playwright-report
+package-lock.json
+next-env.d.ts
+scripts/image-sources.local.json
